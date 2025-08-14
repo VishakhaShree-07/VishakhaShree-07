@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishakha Shree</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400"src"">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakhashree-07&label=Profile%20views&color=0e75b6&style=flat" alt="vishakhashree-07" /> </p>
 
 - 🌱 I’m currently learning **Java Programming, Object-Oriented Programming(OOP) concepts, Data Structures & Algorithms, and web development with HTML, CSS, and JavaScript.**
