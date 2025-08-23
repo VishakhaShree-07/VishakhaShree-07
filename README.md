@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishakha Shree</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/22212016/file/original-f79177f9cdbbd3e293ebadc726fa5616.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakhashree-07&label=Profile%20views&color=0e75b6&style=flat" alt="vishakhashree-07" /> </p>
 
 - 🌱 I’m currently learning **Java Programming, Object-Oriented Programming(OOP) concepts, Data Structures & Algorithms, and web development with HTML, CSS, and JavaScript.**
@@ -10,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/vishakha_shree7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishakha_shree7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishakha shree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishakha shree" height="30" width="40" /></a>
-<a href="https://instagram.com/vishakha_.07_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishakha_.07_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishakha_shree-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishakha_shree-07" height="30" width="40" /></a>
 </p>
 
@@ -23,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishakhashree-07&show_icons=true&locale=en" alt="vishakhashree-07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishakhashree-07&" alt="vishakhashree-07" /></p>
-
