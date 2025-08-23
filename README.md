@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishakha Shree</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align ="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+<img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/22212016/file/original-f79177f9cdbbd3e293ebadc726fa5616.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakhashree-07&label=Profile%20views&color=0e75b6&style=flat" alt="vishakhashree-07" /> </p>
 
