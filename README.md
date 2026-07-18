@@ -30,4 +30,3 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishakhashree-07&" alt="vishakhashree-07" /></p>
